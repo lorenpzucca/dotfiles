@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lorenpzucca@gmail.com
+	name = Lorenzo Zuccarelli
